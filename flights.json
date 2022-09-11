@@ -1,0 +1,110 @@
+[
+  {
+    "status": "סופי",
+    "updated_ETA": "20:43",
+    "ETA": "17:20\n11/09",
+    "terminal": "3",
+    "departure_from": "רודוס",
+    "flight_number": "6H 512",
+    "flight_company": "ISRAIR AIRLINES"
+  },
+  {
+    "status": "נחתה",
+    "updated_ETA": "18:48",
+    "ETA": "18:00\n11/09",
+    "terminal": "3",
+    "departure_from": "קוס",
+    "flight_number": "BZ 801",
+    "flight_company": "BLUE BIRD AIRWAYS"
+  },
+  {
+    "status": "נחתה",
+    "updated_ETA": "19:15",
+    "ETA": "18:25\n11/09",
+    "terminal": "3",
+    "departure_from": "רודוס",
+    "flight_number": "IZ 078",
+    "flight_company": "ARKIA ISRAELI AIRLINES"
+  },
+  {
+    "status": "נחתה",
+    "updated_ETA": "19:18",
+    "ETA": "18:30\n11/09",
+    "terminal": "1",
+    "departure_from": "אילת - רמון",
+    "flight_number": "6H 440",
+    "flight_company": "ISRAIR AIRLINES"
+  },
+  {
+    "status": "נחתה",
+    "updated_ETA": "18:57",
+    "ETA": "18:50\n11/09",
+    "terminal": "3",
+    "departure_from": "רודוס",
+    "flight_number": "6H 516",
+    "flight_company": "ISRAIR AIRLINES"
+  },
+  {
+    "status": "נחתה",
+    "updated_ETA": "19:05",
+    "ETA": "18:50\n11/09",
+    "terminal": "3",
+    "departure_from": "פראג",
+    "flight_number": "LY 2522",
+    "flight_company": "EL AL ISRAEL AIRLINES"
+  },
+  {
+    "status": "נחתה",
+    "updated_ETA": "19:12",
+    "ETA": "18:50\n11/09",
+    "terminal": "3",
+    "departure_from": "אתונה",
+    "flight_number": "A3 924",
+    "flight_company": "AEGEAN AIRLINES"
+  },
+  {
+    "status": "נחתה",
+    "updated_ETA": "19:13",
+    "ETA": "18:55\n11/09",
+    "terminal": "3",
+    "departure_from": "אנטליה",
+    "flight_number": "TK 7782",
+    "flight_company": "TURKISH AIRLINES"
+  },
+  {
+    "status": "בנחיתה",
+    "updated_ETA": "19:41",
+    "ETA": "19:00\n11/09",
+    "terminal": "3",
+    "departure_from": "רודוס",
+    "flight_number": "BZ 693",
+    "flight_company": "BLUE BIRD AIRWAYS"
+  },
+  {
+    "status": "סופי",
+    "updated_ETA": "21:14",
+    "ETA": "19:00\n11/09",
+    "terminal": "3",
+    "departure_from": "וינה",
+    "flight_number": "W6 2811",
+    "flight_company": "WIZZAIR"
+  },
+  {
+    "status": "נחתה",
+    "updated_ETA": "19:09",
+    "ETA": "19:05\n11/09",
+    "terminal": "3",
+    "departure_from": "פרנקפורט",
+    "flight_number": "AC 9617",
+    "flight_company": "AIR CANADA"
+  },
+  {
+    "status": "נחתה",
+    "updated_ETA": "19:09",
+    "ETA": "19:05\n11/09",
+    "terminal": "3",
+    "departure_from": "פרנקפורט",
+    "flight_number": "SN 7167",
+    "flight_company": "BRUSSELS AIRLINES"
+  }
+]
